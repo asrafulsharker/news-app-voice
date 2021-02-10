@@ -1,4 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
+   //   'e67a5ba179fb748137b9947285bc68922e956eca572e1d8b807a3e2338fdd0dc/stage',
 export default makeStyles((theme) => ({
   footer: {
     textAlign: 'center',
